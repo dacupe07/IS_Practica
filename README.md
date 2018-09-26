@@ -21,3 +21,6 @@
   ###### Encabezado 6
 
 > Esto es una cita. je
+
+`git init`
+
